@@ -70,7 +70,7 @@ Currently building AI-powered real estate platforms at Syndnet and working on sy
 
 ## 📊 GitHub Stats
 
-![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpan1221&show_icons=true&theme=tokyonight)
+<!---![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpan1221&show_icons=true&theme=tokyonight)--->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpan1221&layout=compact&theme=tokyonight)
 

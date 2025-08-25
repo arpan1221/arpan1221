@@ -10,14 +10,14 @@ Currently building AI-powered real estate platforms at Syndnet and working on sy
 * 💬 **Ask me about**: Transfer learning, geospatial ML, multi-agent systems, or real estate tech
 * 🌱 **Exploring**: Multi-agent AI architectures and synthetic data generation
 * 📫 **Reach me**: [Email](mailto:arpan.nookala@rutgers.edu) | [LinkedIn](https://www.linkedin.com/in/arpan-nookala/)
-* 🌐 **Website**: [Portfolio](your-portfolio-link)
+* 🌐 **Website**: [Portfolio](https://v0-lego-f1-portfolio.vercel.app/)
 
 **Experience**
 * **Syndnet**: Building ScoutGPT - AI-powered property scout for off-market real estate with geospatial data processing and ML matching algorithms.
 * **Rutgers Urban Lab**: Developed transfer learning framework for remote work prediction using federal datasets across multiple states.
 * **Google**: Built data pipelines and sentiment analysis models for smartphone products across global markets.
 
-*(For more details, check out my resume or pinned projects!)*
+*(For more details, check out my pinned projects!)*
 
 **Technical Skills**
 * **Languages**: Python, SQL, R, JavaScript
@@ -26,7 +26,7 @@ Currently building AI-powered real estate platforms at Syndnet and working on sy
 * **Cloud & DevOps**: Google Cloud, AWS, Docker, FastAPI
 
 **Publications**
-* [Deep RL for Traffic Control](publication-link) - *IEEE TENSYMP 2023*
-* [Deep RL for Stock Trading](publication-link) - *ISMIS 2022*
+* [Deep RL for Traffic Control](https://ieeexplore.ieee.org/document/10223639) - *IEEE TENSYMP 2023*
+* [Deep RL for Stock Trading](https://link.springer.com/chapter/10.1007/978-3-031-16564-1_18) - *ISMIS 2022*
 
 **GitHub Stats**

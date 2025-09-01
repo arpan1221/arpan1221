@@ -69,6 +69,7 @@ Currently building AI-powered real estate platforms at Syndnet and working on sy
 ---
 
 ## 📊 GitHub Stats
+![Profile Views](https://komarev.com/ghpvc/?username=arpan1221&color=brightgreen&style=flat-square&label=Profile+Views)
 
 <!---![Arpan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpan1221&show_icons=true&theme=tokyonight)--->
 
